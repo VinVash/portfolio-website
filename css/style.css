@@ -1313,7 +1313,8 @@ ul.slides li {
   /* Media query for smaller screens (e.g., mobile devices) */
   @media (max-width: 768px) {
 	.hero h1 {
-	  font-size: 80px; /* Adjust the font size as needed for small screens */
+	  font-size: 72px; /* Adjust the font size as needed for small screens */
+	  margin-top: 60px;
 	}
   }
   
